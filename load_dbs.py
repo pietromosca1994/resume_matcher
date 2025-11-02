@@ -7,7 +7,7 @@ from sqlalchemy.exc import SQLAlchemyError
 from typing import List, Dict, Literal
 from glob import glob
 
-from nlp_processor import NLProcessor
+from src.nlp_processor import NLProcessor
 from src.faiss_client import FAISSClient   
 from src.configs import FAISSClientConfig, ResumeProcessorConfig 
 from src.resume_processor import ResumeProcessor

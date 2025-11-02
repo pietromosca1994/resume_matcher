@@ -1,0 +1,56 @@
+# Resume Matcher
+A Resume Matching Engine that semantically matches job descriptions with candidate resumes using embeddings and FAISS similarity search.
+
+## 📋 Features
+
+- 🔍 **Semantic search** using embeddings (BERT, MiniLM, etc.)
+- ⚡ **FAISS vector search** for fast similarity matching
+- 🧾 **Resume storage** with PostgreSQL
+- 🧠 **Weighted scoring** for skills, experience, and titles
+- 📊 **Streamlit dashboard** for interactive visualization
+
+---
+
+## ⚙️ Environment Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/resume-matcher.git
+cd resume-matcher
+```
+
+### 2. Uptional but recommended
+``` bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash 
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+## Run 
+0. Deploy databases
+```bash 
+docker-compose up 
+```
+
+1. Generate synthetic resumes
+```bash 
+python ./generate_dataset.py --num_people=100
+```
+
+2. Load resumes in databases 
+```bash 
+python ./load_dbs.py
+```
+
+3. Run the matching engine
+```bash 
+python ./run_matching.py --jd='./inputs/jd_1.json' --top_k=5 --skills_w=0.5 --experience_w=0.1 --title_w=0.4
+```
+
+## References
+[challenge](https://manatal.notion.site/Build-a-simple-Recommendation-Engine-Candidate-X-Jobs-1157661a383580d9ab64ff0fd530a69d)
