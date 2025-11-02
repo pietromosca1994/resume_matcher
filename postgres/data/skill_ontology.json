@@ -1,0 +1,452 @@
+[
+    {
+      "base": "Python",
+      "category": "Programming Language",
+      "related": ["NumPy", "Pandas", "Flask", "Django"]
+    },
+    {
+      "base": "Java",
+      "category": "Programming Language",
+      "related": ["Spring", "Maven", "Kotlin"]
+    },
+    {
+      "base": "C++",
+      "category": "Programming Language",
+      "related": ["STL", "Algorithms", "Competitive Programming"]
+    },
+    {
+      "base": "C#",
+      "category": "Programming Language",
+      "related": [".NET", "ASP.NET", "Unity"]
+    },
+    {
+      "base": "JavaScript",
+      "category": "Programming Language",
+      "related": ["Node.js", "React", "Angular"]
+    },
+    {
+      "base": "TypeScript",
+      "category": "Programming Language",
+      "related": ["JavaScript", "Angular", "React"]
+    },
+    {
+      "base": "Go",
+      "category": "Programming Language",
+      "related": ["Kubernetes", "Microservices"]
+    },
+    {
+      "base": "Rust",
+      "category": "Programming Language",
+      "related": ["Systems Programming", "WebAssembly"]
+    },
+    {
+      "base": "SQL",
+      "category": "Database",
+      "related": ["PostgreSQL", "MySQL", "Data Analysis"]
+    },
+    {
+      "base": "PostgreSQL",
+      "category": "Database",
+      "related": ["SQL", "Data Warehousing", "ETL"]
+    },
+    {
+      "base": "MySQL",
+      "category": "Database",
+      "related": ["SQL", "Data Warehousing", "ETL"]
+    },
+    {
+      "base": "Oracle",
+      "category": "Database",
+      "related": ["SQL", "PL/SQL"]
+    },
+    {
+      "base": "MongoDB",
+      "category": "Database",
+      "related": ["NoSQL", "Data Modeling"]
+    },
+    {
+      "base": "Redis",
+      "category": "Database",
+      "related": ["Caching", "In-Memory"]
+    },
+    {
+      "base": "Pandas",
+      "category": "Data Analysis",
+      "related": ["Python", "NumPy", "Data Cleaning"]
+    },
+    {
+      "base": "NumPy",
+      "category": "Data Analysis",
+      "related": ["Python", "Pandas", "Scientific Computing"]
+    },
+    {
+      "base": "Matplotlib",
+      "category": "Data Visualization",
+      "related": ["Python", "Data Analysis", "Seaborn"]
+    },
+    {
+      "base": "Seaborn",
+      "category": "Data Visualization",
+      "related": ["Python", "Data Analysis", "Matplotlib"]
+    },
+    {
+      "base": "Tableau",
+      "category": "Data Visualization",
+      "related": ["BI", "Data Dashboards"]
+    },
+    {
+      "base": "Power BI",
+      "category": "Data Visualization",
+      "related": ["BI", "Data Dashboards"]
+    },
+    {
+      "base": "TensorFlow",
+      "category": "Machine Learning",
+      "related": ["Keras", "PyTorch", "Deep Learning"]
+    },
+    {
+      "base": "PyTorch",
+      "category": "Machine Learning",
+      "related": ["TensorFlow", "Deep Learning", "Neural Networks"]
+    },
+    {
+      "base": "Keras",
+      "category": "Machine Learning",
+      "related": ["TensorFlow", "Deep Learning"]
+    },
+    {
+      "base": "Scikit-learn",
+      "category": "Machine Learning",
+      "related": ["Python", "Machine Learning", "Data Preprocessing"]
+    },
+    {
+      "base": "Machine Learning",
+      "category": "AI/ML",
+      "related": ["Deep Learning", "Supervised Learning", "Scikit-learn"]
+    },
+    {
+      "base": "Deep Learning",
+      "category": "AI/ML",
+      "related": ["TensorFlow", "PyTorch", "CNN", "RNN"]
+    },
+    {
+      "base": "NLP",
+      "category": "AI/ML",
+      "related": ["Transformers", "HuggingFace", "Text Processing"]
+    },
+    {
+      "base": "Computer Vision",
+      "category": "AI/ML",
+      "related": ["OpenCV", "Deep Learning"]
+    },
+    {
+      "base": "OpenCV",
+      "category": "AI/ML",
+      "related": ["Computer Vision", "Python"]
+    },
+    {
+      "base": "Data Analysis",
+      "category": "Data Science",
+      "related": ["SQL", "Python", "Pandas", "Excel"]
+    },
+    {
+      "base": "Data Cleaning",
+      "category": "Data Science",
+      "related": ["Pandas", "Python", "Excel"]
+    },
+    {
+      "base": "Statistics",
+      "category": "Data Science",
+      "related": ["Probability", "Data Analysis", "R"]
+    },
+    {
+      "base": "Excel",
+      "category": "Productivity",
+      "related": ["Data Analysis", "VBA"]
+    },
+    {
+      "base": "VBA",
+      "category": "Productivity",
+      "related": ["Excel", "Automation"]
+    },
+    {
+      "base": "Git",
+      "category": "Version Control",
+      "related": ["GitHub", "GitLab", "Bitbucket"]
+    },
+    {
+      "base": "GitHub",
+      "category": "Version Control",
+      "related": ["Git", "CI/CD"]
+    },
+    {
+      "base": "GitLab",
+      "category": "Version Control",
+      "related": ["Git", "CI/CD"]
+    },
+    {
+      "base": "Bitbucket",
+      "category": "Version Control",
+      "related": ["Git", "CI/CD"]
+    },
+    {
+      "base": "Docker",
+      "category": "DevOps",
+      "related": ["Kubernetes", "CI/CD"]
+    },
+    {
+      "base": "Kubernetes",
+      "category": "DevOps",
+      "related": ["Docker", "Cloud", "CI/CD"]
+    },
+    {
+      "base": "CI/CD",
+      "category": "DevOps",
+      "related": ["Jenkins", "GitHub Actions", "Docker"]
+    },
+    {
+      "base": "Jenkins",
+      "category": "DevOps",
+      "related": ["CI/CD", "Automation"]
+    },
+    {
+      "base": "Ansible",
+      "category": "DevOps",
+      "related": ["Configuration Management", "Automation"]
+    },
+    {
+      "base": "Terraform",
+      "category": "DevOps",
+      "related": ["Infrastructure as Code", "Cloud"]
+    },
+    {
+      "base": "AWS",
+      "category": "Cloud",
+      "related": ["Azure", "GCP", "DevOps"]
+    },
+    {
+      "base": "Azure",
+      "category": "Cloud",
+      "related": ["AWS", "GCP", "DevOps"]
+    },
+    {
+      "base": "GCP",
+      "category": "Cloud",
+      "related": ["AWS", "Azure", "DevOps"]
+    },
+    {
+      "base": "Linux",
+      "category": "Operating System",
+      "related": ["Bash", "Shell Scripting"]
+    },
+    {
+      "base": "Bash",
+      "category": "Scripting",
+      "related": ["Linux", "Shell"]
+    },
+    {
+      "base": "Shell Scripting",
+      "category": "Scripting",
+      "related": ["Bash", "Automation"]
+    },
+    {
+      "base": "Agile",
+      "category": "Methodology",
+      "related": ["Scrum", "Kanban", "Project Management"]
+    },
+    {
+      "base": "Scrum",
+      "category": "Methodology",
+      "related": ["Agile", "Sprint Planning", "Product Owner"]
+    },
+    {
+      "base": "Kanban",
+      "category": "Methodology",
+      "related": ["Agile", "Workflow Management"]
+    },
+    {
+      "base": "Project Management",
+      "category": "Methodology",
+      "related": ["Agile", "Scrum", "Jira"]
+    },
+    {
+      "base": "Jira",
+      "category": "Project Management",
+      "related": ["Agile", "Scrum", "Kanban"]
+    },
+    {
+      "base": "Communication",
+      "category": "Soft Skill",
+      "related": ["Teamwork", "Presentation"]
+    },
+    {
+      "base": "Teamwork",
+      "category": "Soft Skill",
+      "related": ["Collaboration", "Agile", "Communication"]
+    },
+    {
+      "base": "Problem Solving",
+      "category": "Soft Skill",
+      "related": ["Critical Thinking", "Creativity"]
+    },
+    {
+      "base": "Critical Thinking",
+      "category": "Soft Skill",
+      "related": ["Problem Solving", "Analysis"]
+    },
+    {
+      "base": "Creativity",
+      "category": "Soft Skill",
+      "related": ["Innovation", "Problem Solving"]
+    },
+    {
+      "base": "Leadership",
+      "category": "Soft Skill",
+      "related": ["Team Management", "Mentoring"]
+    },
+    {
+      "base": "Mentoring",
+      "category": "Soft Skill",
+      "related": ["Coaching", "Leadership"]
+    },
+    {
+      "base": "Collaboration",
+      "category": "Soft Skill",
+      "related": ["Teamwork", "Communication"]
+    },
+    {
+      "base": "Presentation",
+      "category": "Soft Skill",
+      "related": ["Communication", "Public Speaking"]
+    },
+    {
+      "base": "Public Speaking",
+      "category": "Soft Skill",
+      "related": ["Presentation", "Communication"]
+    },
+    {
+      "base": "Networking",
+      "category": "Soft Skill",
+      "related": ["Collaboration", "Communication"]
+    },
+    {
+      "base": "Excel VBA",
+      "category": "Productivity",
+      "related": ["Excel", "Automation"]
+    },
+    {
+      "base": "Data Warehousing",
+      "category": "Data Engineering",
+      "related": ["ETL", "SQL", "BigQuery"]
+    },
+    {
+      "base": "ETL",
+      "category": "Data Engineering",
+      "related": ["SQL", "Python", "Data Warehousing"]
+    },
+    {
+      "base": "BigQuery",
+      "category": "Cloud Data",
+      "related": ["SQL", "Data Warehousing", "GCP"]
+    },
+    {
+      "base": "Snowflake",
+      "category": "Cloud Data",
+      "related": ["SQL", "Data Warehousing", "Cloud"]
+    },
+    {
+      "base": "Hadoop",
+      "category": "Big Data",
+      "related": ["Spark", "MapReduce"]
+    },
+    {
+      "base": "Spark",
+      "category": "Big Data",
+      "related": ["Hadoop", "PySpark", "Big Data"]
+    },
+    {
+      "base": "PySpark",
+      "category": "Big Data",
+      "related": ["Spark", "Python"]
+    },
+    {
+      "base": "MapReduce",
+      "category": "Big Data",
+      "related": ["Hadoop"]
+    },
+    {
+      "base": "Elasticsearch",
+      "category": "Search",
+      "related": ["Kibana", "Full-text Search"]
+    },
+    {
+      "base": "Kibana",
+      "category": "Visualization",
+      "related": ["Elasticsearch", "Dashboards"]
+    },
+    {
+      "base": "REST API",
+      "category": "Web Development",
+      "related": ["JSON", "HTTP", "Web Services"]
+    },
+    {
+      "base": "GraphQL",
+      "category": "Web Development",
+      "related": ["APIs", "Queries", "Web Development"]
+    },
+    {
+      "base": "Flask",
+      "category": "Web Development",
+      "related": ["Python", "Web"]
+    },
+    {
+      "base": "Django",
+      "category": "Web Development",
+      "related": ["Python", "Web"]
+    },
+    {
+      "base": "React",
+      "category": "Frontend",
+      "related": ["JavaScript", "TypeScript"]
+    },
+    {
+      "base": "Angular",
+      "category": "Frontend",
+      "related": ["JavaScript", "TypeScript"]
+    },
+    {
+      "base": "Node.js",
+      "category": "Backend",
+      "related": ["JavaScript", "APIs"]
+    },
+    {
+      "base": "Microservices",
+      "category": "Architecture",
+      "related": ["Docker", "Kubernetes", "Go"]
+    },
+    {
+      "base": "Software Testing",
+      "category": "QA",
+      "related": ["Selenium", "Unit Testing"]
+    },
+    {
+      "base": "Selenium",
+      "category": "QA",
+      "related": ["Python", "Web Automation"]
+    },
+    {
+      "base": "Unit Testing",
+      "category": "QA",
+      "related": ["Python", "Java", "Test Automation"]
+    },
+    {
+      "base": "Security",
+      "category": "IT",
+      "related": ["Networking", "Cloud", "Best Practices"]
+    },
+    {
+      "base": "Networking",
+      "category": "IT",
+      "related": ["TCP/IP", "Security", "Cloud"]
+    }
+]

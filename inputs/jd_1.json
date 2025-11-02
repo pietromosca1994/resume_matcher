@@ -1,0 +1,13 @@
+{
+"job_title": "Full Stack Developer",
+"job_description": "Develop and maintain full-stack web applications, collaborating with cross-functional teams to deliver user-friendly and performant products.",
+"budget": {
+    "min": 75000,
+    "max": 95000,
+    "currency": "USD"
+},
+"location": "San Jose, CA",
+"company_name": "Innovate Labs",
+"employment_type": "Full-time",
+"required_skills": ["JavaScript", "React", "Node.js", "MongoDB"]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "base": "Software Engineer",
+    "category": "Engineering",
+    "related": ["Backend Developer", "Frontend Developer", "Full Stack Developer", "DevOps Engineer"]
+  },
+  {
+    "base": "Backend Developer",
+    "category": "Engineering",
+    "related": ["Software Engineer", "API Developer", "Full Stack Developer", "Java Developer"]
+  },
+  {
+    "base": "Frontend Developer",
+    "category": "Engineering",
+    "related": ["UI Developer", "React Developer", "Angular Developer", "Full Stack Developer"]
+  },
+  {
+    "base": "Full Stack Developer",
+    "category": "Engineering",
+    "related": ["Backend Developer", "Frontend Developer", "Software Engineer"]
+  },
+  {
+    "base": "DevOps Engineer",
+    "category": "Infrastructure",
+    "related": ["Cloud Engineer", "Site Reliability Engineer", "Systems Engineer"]
+  },
+  {
+    "base": "Cloud Engineer",
+    "category": "Infrastructure",
+    "related": ["DevOps Engineer", "AWS Engineer", "Azure Engineer", "GCP Engineer"]
+  },
+  {
+    "base": "Data Scientist",
+    "category": "Data",
+    "related": ["Machine Learning Engineer", "Data Analyst", "AI Researcher"]
+  },
+  {
+    "base": "Machine Learning Engineer",
+    "category": "Data",
+    "related": ["Data Scientist", "AI Engineer", "Deep Learning Engineer"]
+  },
+  {
+    "base": "Data Analyst",
+    "category": "Data",
+    "related": ["Business Analyst", "Data Scientist", "BI Developer"]
+  },
+  {
+    "base": "Data Engineer",
+    "category": "Data",
+    "related": ["ETL Developer", "Big Data Engineer", "Machine Learning Engineer"]
+  },
+  {
+    "base": "AI Engineer",
+    "category": "Data",
+    "related": ["Machine Learning Engineer", "Data Scientist", "Computer Vision Engineer"]
+  },
+  {
+    "base": "Product Manager",
+    "category": "Management",
+    "related": ["Project Manager", "Product Owner", "Program Manager"]
+  },
+  {
+    "base": "Project Manager",
+    "category": "Management",
+    "related": ["Product Manager", "Scrum Master", "Program Manager"]
+  },
+  {
+    "base": "Scrum Master",
+    "category": "Management",
+    "related": ["Agile Coach", "Project Manager", "Product Owner"]
+  },
+  {
+    "base": "UI/UX Designer",
+    "category": "Design",
+    "related": ["Product Designer", "UX Researcher", "UI Designer"]
+  },
+  {
+    "base": "Product Designer",
+    "category": "Design",
+    "related": ["UI/UX Designer", "Visual Designer", "UX Researcher"]
+  },
+  {
+    "base": "Graphic Designer",
+    "category": "Design",
+    "related": ["Visual Designer", "UI Designer", "Motion Designer"]
+  },
+  {
+    "base": "QA Engineer",
+    "category": "Quality Assurance",
+    "related": ["Test Engineer", "Automation Engineer", "Software Tester"]
+  },
+  {
+    "base": "Automation Engineer",
+    "category": "Quality Assurance",
+    "related": ["QA Engineer", "Test Automation Engineer", "SDET"]
+  },
+  {
+    "base": "Security Engineer",
+    "category": "Cybersecurity",
+    "related": ["Information Security Analyst", "Penetration Tester", "Security Architect"]
+  },
+  {
+    "base": "Penetration Tester",
+    "category": "Cybersecurity",
+    "related": ["Ethical Hacker", "Security Engineer", "Vulnerability Analyst"]
+  },
+  {
+    "base": "Network Engineer",
+    "category": "IT Infrastructure",
+    "related": ["Systems Administrator", "Security Engineer", "Cloud Engineer"]
+  },
+  {
+    "base": "Systems Administrator",
+    "category": "IT Infrastructure",
+    "related": ["Network Engineer", "DevOps Engineer", "IT Support Specialist"]
+  },
+  {
+    "base": "IT Support Specialist",
+    "category": "IT Support",
+    "related": ["Help Desk Technician", "Technical Support Engineer", "Systems Administrator"]
+  },
+  {
+    "base": "Business Analyst",
+    "category": "Business",
+    "related": ["Data Analyst", "Product Manager", "Operations Analyst"]
+  },
+  {
+    "base": "Marketing Manager",
+    "category": "Marketing",
+    "related": ["Digital Marketing Specialist", "Content Strategist", "SEO Manager"]
+  },
+  {
+    "base": "Digital Marketing Specialist",
+    "category": "Marketing",
+    "related": ["Social Media Manager", "Marketing Manager", "SEO Specialist"]
+  },
+  {
+    "base": "HR Manager",
+    "category": "Human Resources",
+    "related": ["Recruiter", "HR Business Partner", "Talent Acquisition Specialist"]
+  },
+  {
+    "base": "Technical Writer",
+    "category": "Documentation",
+    "related": ["Content Writer", "Copywriter", "Documentation Specialist"]
+  },
+  {
+    "base": "Customer Success Manager",
+    "category": "Customer Experience",
+    "related": ["Account Manager", "Client Success Specialist", "Customer Support Lead"]
+  }
+]

@@ -1,0 +1,13 @@
+{
+"job_title": "Backend Software Engineer",
+"job_description": "Design, build, and maintain scalable backend services and APIs that power our web and mobile applications.",
+"budget": {
+    "min": 80000,
+    "max": 100000,
+    "currency": "USD"
+},
+"location": "San Francisco, CA",
+"company_name": "Tech Corp",
+"employment_type": "Full-time",
+"required_skills": ["Python", "Django", "PostgreSQL", "Docker"]
+}
