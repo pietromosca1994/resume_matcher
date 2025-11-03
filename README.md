@@ -1,31 +1,22 @@
 # Resume Matcher
+## Introduction
 A Resume Matching Engine that semantically matches job descriptions with candidate resumes using embeddings and FAISS similarity search.
 
-## 📋 Features
+## Environment Setup
 
-- 🔍 **Semantic search** using embeddings (BERT, MiniLM, etc.)
-- ⚡ **FAISS vector search** for fast similarity matching
-- 🧾 **Resume storage** with PostgreSQL
-- 🧠 **Weighted scoring** for skills, experience, and titles
-- 📊 **Streamlit dashboard** for interactive visualization
-
----
-
-## ⚙️ Environment Setup
-
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/resume-matcher.git
 cd resume-matcher
 ```
 
-### 2. Uptional but recommended
+2. Uptional but recommended
 ``` bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies
+3. Install Dependencies
 ```bash 
 pip install --upgrade pip
 pip install -r requirements.txt
